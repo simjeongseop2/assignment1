@@ -1,25 +1,21 @@
-#Library Manegement
+# Library Manegement
 
-##Contents
+## Contents
 
 There are **member** and **resource**. They are managend by **library** class.
 
-Member
-
----
+### Member
 
 Undergraduate:
 
 * they can borrow 1 resource for 14 days from that day
 * they restricted to borrow resources for delayed duration
 
-Resource
-
----
+### Resource
 
 Book
 
-##Building
+## Building
 
 * It is simple. just type `make`. Then the executable file is made.
 * And type `hw1` for executing.
