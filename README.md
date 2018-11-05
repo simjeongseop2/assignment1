@@ -6,6 +6,8 @@ There are **member** and **resource**. They are managend by **library** class.
 
 ### Member
 
+---
+
 Undergraduate:
 
 * they can borrow 1 resource for 14 days from that day
@@ -13,10 +15,12 @@ Undergraduate:
 
 ### Resource
 
+---
+
 Book
 
 ## Building
 
 * It is simple. just type `make`. Then the executable file is made.
-* And type `hw1` for executing.
+* And type `./hw1` for executing.
 
